@@ -1,2 +1,2 @@
-# pantha-rest-assignment
-Panther Rest Assignment
+# Pantha Rest Assignment
+Pantha Rest Assignment
